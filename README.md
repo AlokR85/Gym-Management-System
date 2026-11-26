@@ -8,6 +8,10 @@ A gym website with pages for the gym's services, an about page, a contact page, 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+**Live demo:** https://alokr85.github.io/Gym-Management-System/
+
+[![Live demo](https://img.shields.io/badge/Live%20demo-Open%20website-F7B917?style=for-the-badge)](https://alokr85.github.io/Gym-Management-System/)
+
 ![Home page](screenshots/home.jpg)
 
 ## Pages
@@ -27,7 +31,7 @@ A gym website with pages for the gym's services, an about page, a contact page, 
 
 ## Run it
 
-No installation needed. Download or clone the repository and open `index.html` in a browser.
+See it online at the [live demo](https://alokr85.github.io/Gym-Management-System/), or download the repository and open `index.html` in a browser. No installation needed.
 
 ## Folder structure
 
